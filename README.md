@@ -31,10 +31,10 @@ Features
 *   **Pluggable!** Add your own data and functions.
 *   **Predictable!** Because users can't define loops or recursive functions, you know you won't be left hanging.
 
-Get it
+This Fork
 ------
 
-*    **DOWNLOAD [filtrex.js](https://rawgit.com/joewalnes/filtrex/master/filtrex.js)**
+This is intended to provide a vanilla js package that uses es5 modules. 
 
 10 second tutorial
 ------------------
